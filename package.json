@@ -1,0 +1,22 @@
+{
+  "name": "cotw-info-ff",
+  "version": "1.0.0",
+  "description": "game info for COTW",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "COTW-info"
+  },
+  "keywords": [
+    "cotw"
+  ],
+  "author": "99xps",
+  "license": "ISC"
+}
